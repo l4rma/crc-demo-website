@@ -1,0 +1,32 @@
+* {
+	background-color: #1e1f21;
+	color: white;
+	font-family: helvetica;
+}
+.main-container {
+    margin: auto;
+    width: 800px;
+}
+ul li {
+	list-style: none;
+	padding: 3px 0 2px 0px;
+}
+
+ul li::before {
+  content: "⭐ ";
+}
+
+#contact {
+	background-color: #7b8579;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 5px;
+}
+
+#contact:hover, #contact:active {
+	background-color: #849188;
+}
+
