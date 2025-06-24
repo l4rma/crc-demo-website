@@ -9,5 +9,6 @@ Check out my guide and other blog posts at my website [magelssen.io](https://mag
 - [Part 3: CSS - Style your website](https://magelssen.io/blog/part03-css)
 - [Part 4: Static Website - Amazon S3](https://magelssen.io/blog/part04-static)
 - [Part 5: HTTPS - Set up Amazon CloudFront](https://magelssen.io/blog/part05-https)
-
+- [Part 6: DNS - Custom domain name with Amazon Route 53](/blog/part06-dns)
+- [Part 7-12: Backend - Creating a serverless API and requesting it with JS](/blog/part07-api)
 
